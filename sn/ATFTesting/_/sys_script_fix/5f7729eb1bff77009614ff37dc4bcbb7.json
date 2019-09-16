@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "ATFTesting",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\ATFTesting\\Fix Script\\active_true\\ATFTesting.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-16 05:14:07",
+  "sys_id": "5f7729eb1bff77009614ff37dc4bcbb7",
+  "sys_mod_count": 0,
+  "sys_name": "ATFTesting",
+  "sys_package": "2b9361a71bff77009614ff37dc4bcb6b",
+  "sys_policy": null,
+  "sys_scope": "2b9361a71bff77009614ff37dc4bcb6b",
+  "sys_update_name": "sys_script_fix_5f7729eb1bff77009614ff37dc4bcbb7",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-16 05:14:07",
+  "unloadable": false
+}

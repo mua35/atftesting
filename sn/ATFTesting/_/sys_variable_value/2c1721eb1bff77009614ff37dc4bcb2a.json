@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "11f661eb1bff77009614ff37dc4bcb48",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-16 05:11:49",
+  "sys_id": "2c1721eb1bff77009614ff37dc4bcb2a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-16 05:11:49",
+  "value": "short_description=ATFTesting1^caller_id=506c0f9cd7011200f2d224837e61030f^EQ",
+  "variable": "b3dba2465320220002c6435723dc34f0"
+}

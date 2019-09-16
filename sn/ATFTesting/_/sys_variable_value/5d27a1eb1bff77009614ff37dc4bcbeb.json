@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "4827e1eb1bff77009614ff37dc4bcbce",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-16 05:12:09",
+  "sys_id": "5d27a1eb1bff77009614ff37dc4bcbeb",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-16 05:12:09",
+  "value": "form_submitted_to_server",
+  "variable": "c796d40497302200abe4bb7503ac4ad8"
+}
